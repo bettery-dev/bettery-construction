@@ -13,6 +13,11 @@
           justify-content: center;
   box-shadow: inset 0 -60px 0 -30px #ff6347;
 }
+.phones img {
+  border-radius: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 .button {
   border-radius: 15px;
   background-color: #ff6347;
