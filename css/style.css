@@ -13,6 +13,18 @@
           justify-content: center;
   box-shadow: inset 0 -60px 0 -30px #ff6347;
 }
+.button {
+  border-radius: 15px;
+  background-color: #ff6347;
+  padding: 15px;
+}
+.button a {
+  margin: 0px;
+  padding: 0px;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
 .buildings {
   height: 84.9673202614379px;
   width: 100%;
