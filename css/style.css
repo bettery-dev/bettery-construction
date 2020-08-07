@@ -4,6 +4,7 @@
   width: 100%;
   height: 100%;
   bottom: 0;
+  z-index: -1;
   overflow: hidden;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -29,6 +30,7 @@
   color: #fff;
   text-decoration: none;
   cursor: pointer;
+  z-index: 999;
 }
 .buildings {
   height: 84.9673202614379px;
